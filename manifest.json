@@ -1,11 +1,11 @@
 {
-    "name": "matchgram_diagnosis",
-    "short_name": "matchgram_diagnosis",
+    "name": "マッチグラム診断",
+    "short_name": "マッチグラム診断",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FDFBF7",
     "theme_color": "#FDFBF7",
-    "description": "A new Flutter project.",
+    "description": "あなたの思考パターンを診断し素敵なパートナーシップを",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
